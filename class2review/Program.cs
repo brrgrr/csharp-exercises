@@ -57,12 +57,21 @@ namespace class2review
             }
 
 
+            Dictionary<string, Dictionary<string, string>> translations = new Dictionary<string, Dictionary<string, string>>();
+            Dictionary<string, string> scarf = new Dictionary<string, string>
+            {
+                { "French", "écharpe"},
+                { "Spanish", "bufanda"}
+            };
+            translations.Add("scarf", scarf);
+            Dictionary<string, string> hello = new Dictionary<string, string>
+            {
+                { "French", "bonjour"},
+                { "Spanish", "hola"}
+            };
+            translations.Add("hello", hello);
 
-            Tuple<string, Dictionary<string, string>> translations = new Tuple<string, Dictionary<string,string>>;
-            translations..Add("scarf", ("x","y") );
 
-            { "French", "écharpe"}
-            { "Spanish", "bufanda"}
 
             Console.ReadKey();
 
