@@ -44,7 +44,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithStrings", "Worki
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{FCD868C7-8521-4012-8F9C-5C81E4A326B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class2review", "class2review\class2review.csproj", "{611FB502-F300-4A7B-87FC-0BBE246B219F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "class2review", "class2review\class2review.csproj", "{611FB502-F300-4A7B-87FC-0BBE246B219F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restaurant", "Restaurant\Restaurant.csproj", "{69742025-86D1-4CE5-85E6-D9F939D69FFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School", "School\School.csproj", "{700BC9A1-0748-4A30-9CAF-A05E55016744}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -140,6 +144,14 @@ Global
 		{611FB502-F300-4A7B-87FC-0BBE246B219F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{611FB502-F300-4A7B-87FC-0BBE246B219F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{611FB502-F300-4A7B-87FC-0BBE246B219F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69742025-86D1-4CE5-85E6-D9F939D69FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69742025-86D1-4CE5-85E6-D9F939D69FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69742025-86D1-4CE5-85E6-D9F939D69FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69742025-86D1-4CE5-85E6-D9F939D69FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{700BC9A1-0748-4A30-9CAF-A05E55016744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{700BC9A1-0748-4A30-9CAF-A05E55016744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{700BC9A1-0748-4A30-9CAF-A05E55016744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{700BC9A1-0748-4A30-9CAF-A05E55016744}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
